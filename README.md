@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31ant3jgo63uikc62bjub43bme7a"><img height="185" width="530" src="https://spotify-github-profile.vercel.app/api/view?uid=31ant3jgo63uikc62bjub43bme7a&cover_image=true&theme=novatorem&bar_color_cover=turebar_color=53b14f">
+  <a href="https://open.spotify.com/user/31ant3jgo63uikc62bjub43bme7a"><img width="530" src="https://spotify-github-profile.vercel.app/api/view?uid=31ant3jgo63uikc62bjub43bme7a&cover_image=true&theme=novatorem&bar_color_cover=turebar_color=53b14f">
 </p>
 
 ***
