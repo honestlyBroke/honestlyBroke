@@ -3,10 +3,6 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/honestlyBroke"><img src="https://github-readme-stats.vercel.app/api?username=honestlyBroke&theme=dark&count_private=true&show_icons=true" alt="apoorav's github stats"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/honestlyBroke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=honestlyBroke&theme=dark"></a>
 </p>
 
