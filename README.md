@@ -1,31 +1,30 @@
-<h1 align="center">Hi, I'm Apoorav</a>!</h1>
+<div align="center">
 
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Apoorav!+👋;Welcome+to+my+profile~+OwO;Code,+Vibes,+and+Music" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <a href="https://github.com/honestlyBroke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=honestlyBroke&theme=dark"></a>
-</p>
+  <br/>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31ant3jgo63uikc62bjub43bme7a"><img width="530" src="https://spotify-github-profile.vercel.app/api/view?uid=31ant3jgo63uikc62bjub43bme7a&cover_image=true&theme=novatorem&bar_color_cover=turebar_color=53b14f">
-</p>
+  <a href="https://github.com/honestlyBroke">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 
-***
+  ---
 
+  ### 🔥 Streak Stats
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=honestlyBroke&theme=dark&hide_border=true)
 
-###
-<!--
-**honestlyBroke/honestlyBroke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
 
-Here are some ideas to get you started:
+  ### 🎧 Vibe Check
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ant3jgo63uikc62bjub43bme7a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ant3jgo63uikc62bjub43bme7a&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" width="400" alt="Spotify Playing Now" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-###
+  <br/>
+
+  ### 🛠️ Tools
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode&theme=dark" />
+
+</div>
